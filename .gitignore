@@ -1,0 +1,11 @@
+# Obsidian system folders and runtime files
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/caches/
+.obsidian/plugins/
+.obsidian/graph.json
+.obsidian/appearance.json
+
+# Operating system files
+.DS_Store
+Thumbs.db
