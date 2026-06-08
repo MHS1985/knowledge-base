@@ -1,11 +1,15 @@
-# Obsidian system folders and runtime files
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
-.obsidian/caches/
-.obsidian/plugins/
-.obsidian/graph.json
-.obsidian/appearance.json
+# uv / Virtual Environments
+.venv/
 
-# Operating system files
+# Python caching & bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints (since you have notebook.ipynb)
+.ipynb_checkpoints/
+
+# OS-specific files
 .DS_Store
 Thumbs.db
